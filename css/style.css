@@ -1,5 +1,5 @@
 .wrapper{
-   max-width: 814px;
+   max-width: 810px;
    margin: 0 auto;
    font-family: Lato, sans-serif;
 }
@@ -57,6 +57,7 @@ h1{
    line-height: 25.6px;
    color: #1E212C;
    margin-bottom: 24px;
+   line-height: 160%;
 }
 
 
