@@ -14,7 +14,7 @@ h1{
 }
 
 .image_keyboard{
-   width: 100%;
+   max-width: 100%;
 }
 
 .main_article{
@@ -47,7 +47,7 @@ h1{
    font-weight: 700;
    line-height: 30px;
    color: #1E212C;
-   margin-left :58px;
+   padding-left :58px;
    margin-bottom: 48px;
 }
 
